@@ -1,1 +1,3 @@
 # MIDAI-Token-Contract
+
+Contract Address: 0x38140F5530C56f3813234C88AE6ee5C3643969c3
